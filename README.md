@@ -25,6 +25,10 @@ For this problem I used the python programming language. I created a class calle
         python3 [path-to-file] [filename.py]
         python3 evive.py
 
+# Additional Dependencies
+        No additional dependencies required.Only import Priority Queue.
+        from queue import PriorityQueue
+
 # Generated Test Cases
         b1 = FoodOrderSystem()
         b1.make_menu("Breakfast",1,2,3)
