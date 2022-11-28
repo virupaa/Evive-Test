@@ -22,4 +22,6 @@ For this problem I used the python programming language. I created a class calle
 
 # Working Solution Screenshot
 
-![Screenshot](Screen Shot 2022-11-27 at 11.57.37 PM.png)
+![Screenshot](S-1.png)
+![Screenshot](S-2.png)
+
