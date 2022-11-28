@@ -18,3 +18,5 @@ There were several rules that were to be followed while designing the system. Th
 
 
 # Approach to the given problem
+For this problem I used the python programming language. I created a class called **FoodOrderSystem** which consisted of two functions named **check_rules** and **make_menu**. In the check_rules function I defined all the rules that were to be followed while ordering. I was able to use the same function for breakfast, lunch and dinner because most of the rules were similar and hence to avoid repitition of the code I created a single function which can check rules for all the three things i.e. Breakfast, lunch and dinner. Only dinner contained some extra rules that I handled by passing the item name to this function. The function check_rules was used to create the given menu. I used dictionary for creating a menu for breakfast, lunch and dinner. 
+
